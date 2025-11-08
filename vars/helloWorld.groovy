@@ -1,4 +1,4 @@
 def call() {
-    echo "Hello, Welcome to Jenkins Shared Library!"
+    echo "Hello, Welcome to Jenkins Shared Library!" 2
 }
 
